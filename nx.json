@@ -1,5 +1,5 @@
 {
-  "npmScope": "ne-web-js",
+  "npmScope": "newebjs",
   "affected": {
     "defaultBase": "master"
   },
